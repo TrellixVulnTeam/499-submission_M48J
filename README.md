@@ -1,6 +1,6 @@
 # 499-submission
 
-This is for Chapter 2 exersizes. 
+This is for Chapter 3 exersizes. 
 
 environment name is env
 
@@ -8,4 +8,4 @@ solution is at the bottom of the jupyter notebook. There is only one notebook to
 
 Solutions are marked with "exersize solution #"
 
-the rest of the notebook is the example worked through chapter 2.
+the rest of the notebook is the example worked through chapter 3.
